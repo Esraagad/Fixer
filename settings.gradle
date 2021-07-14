@@ -1,0 +1,2 @@
+rootProject.name = "Fixer"
+include ':app'
